@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "437059276079",
+    "project_id": "marcus2-709fb",
+    "storage_bucket": "marcus2-709fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437059276079:android:bb12b95913224b1ffa25da",
+        "android_client_info": {
+          "package_name": "com.example.markus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZApdrcp-DQvJktkk2WQ-EFHqWfyXOnhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437059276079:android:9944d22582cb1d70fa25da",
+        "android_client_info": {
+          "package_name": "com.example.richie_the_waiter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZApdrcp-DQvJktkk2WQ-EFHqWfyXOnhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437059276079:android:f74debef8d3af78ffa25da",
+        "android_client_info": {
+          "package_name": "com.example.sydney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZApdrcp-DQvJktkk2WQ-EFHqWfyXOnhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
