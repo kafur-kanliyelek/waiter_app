@@ -1,10 +1,12 @@
 # richie_the_waiter
 
-Restaurantların operasyonel işlemlerini azaltmak için yapılmış 4 farklı uygulamadan oluşan projesi garsonlara özel uygulaması.
+Restaurantların operasyonel işlemlerini azaltmak için yapılmış 4 farklı uygulamadan oluşan projenin garsonlara özel uygulaması.
 
-## Getting Started
+## PROJE VİDEOSU
 
 Tüm projenin videosuna burada ulaşabilirsiniz: [Proje videosu](https://youtu.be/3gLAGYZg9iE?si=RHAFl8WlI4724zDh&t=161)
+
+##  PROJE GÖRSELLERİ
 
 ![garson-1](https://github.com/user-attachments/assets/6dfea383-b4ed-4d8b-ab23-315480596e9c)
 ![garson-2](https://github.com/user-attachments/assets/c3824106-a139-4fcb-8d56-12bc6d0d9ea0)
